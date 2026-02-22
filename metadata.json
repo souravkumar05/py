@@ -1,0 +1,5 @@
+{
+  "name": "Mood Playlist Generator",
+  "description": "A creative music curator AI that generates custom playlist vibes based on your mood, situation, and energy level.",
+  "requestFramePermissions": []
+}
